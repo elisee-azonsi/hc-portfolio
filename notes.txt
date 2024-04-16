@@ -1,0 +1,54 @@
+Notes du cours:
+<!--
+    <em></em> :  pour les élements un peu importants
+             <strong></strong> :  pour les élements importants
+             <mark></mark> : marquer le text
+             <i></i> : italique
+             <b></b> : gras
+             <u></u> : souligner
+
+-->
+
+CSS:
+
+1. Dans la balise même
+2. Dans le Head
+3. Dans un fichier
+
+
+TAILLE DE LA POLICE:
+ --> Taille absolue
+    --> Ne prend pas en considération l'utilisateur
+    --> Pixel(px)
+
+ --> Taille relative
+    --> Prend en considération l'utilisateur
+    -->"words"
+        -> xx-small
+        -> x-small
+        -> small
+        -> medium
+        -> large
+        -> x-large
+        -> xx-large
+    --> "em"
+        -> 1em <=> normal selon l'élément
+    --> "ex"
+        -> 100% <=> légérement normal selon l'élément
+
+POLICE PERSONALISÉE:
+--> dafont.com
+--> google fonts
+
+MARGES:
+--> margin (externe)
+--> padding (interne)
+
+POSITIONNEMENTS:
+--> ABSOLU -> à n'importe quel endroit
+--> FIXE -> à un endroit fixe
+--> RELATIF -> décaler l'élement par rapport à sa position
+
+MEDIAS QUERYS:
+--> balise link
+--> feuille CSS
